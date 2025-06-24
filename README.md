@@ -5,7 +5,7 @@ Additionally, **Material UI** was used for designing the frontend.
 
 ## 🚀 Setup Guide
 
-To run the LMS locally, follow the steps below for both the **frontend** and **backend**:
+To run the application locally, follow the steps below for both the **frontend** and **backend**:
 
 ---
 
