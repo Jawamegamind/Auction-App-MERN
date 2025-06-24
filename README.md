@@ -1,7 +1,7 @@
 # BidMe - Your One-Stop Auction Solution
 
-A full-stack MERN application that supports real-time auctions. **Vite + React JS** used for frontend alongside ** Node JS + Express ** for backend. 
-Additionally ** Material UI ** was used for designing the frontend.
+A full-stack MERN application that supports real-time auctions. **Vite + React JS** used for frontend alongside **Node JS + Express** for backend. 
+Additionally, **Material UI** was used for designing the frontend.
 
 ## 🚀 Setup Guide
 
