@@ -8,7 +8,7 @@ To run the LMS locally, follow the steps below for both the **frontend** and **b
 
 ### 📦 Frontend (Vite + React JS)
 
-1. Navigate to the `lms-frontend` folder:
+1. Navigate to the `frontend` folder:
 
     ```bash
     cd frontend
@@ -29,7 +29,7 @@ To run the LMS locally, follow the steps below for both the **frontend** and **b
 4. Your browser will automatically open to the landing page. If it doesn't visit the following link:
 
     ```
-    http://localhost:3000
+    http://localhost:5173
     ```
 
 ---
